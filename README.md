@@ -70,4 +70,4 @@ A responsive front-end web application designed to present various insurance ser
 
 ## 👨‍💻 Author
 
-Sai Eswar Reddy
+Gadi Sai Eswar Reddy
