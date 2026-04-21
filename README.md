@@ -68,10 +68,6 @@ A responsive front-end web application designed to present various insurance ser
 
 ---
 
-(Add deployment link if hosted)
-
----
-
 ## 👨‍💻 Author
 
 Sai Eswar Reddy
